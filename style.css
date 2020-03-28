@@ -1,0 +1,68 @@
+.collapse {
+    justify-content: flex-end;
+}
+
+body {
+    background-color: lightgray;
+} 
+
+
+.navbar-brand {
+    background-color: #4baa93;
+    padding: 10px;
+    
+}
+    
+h2 {
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+}
+
+.container h1 {
+    color: #4baa93;
+   
+}
+
+.container {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    position: absolute;
+}
+
+ .textWrap {
+    clear: right;
+    float: left;
+    margin: 10px;
+}
+
+#text-center {
+    margin-bottom: 20px;
+}
+
+.footer {
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
