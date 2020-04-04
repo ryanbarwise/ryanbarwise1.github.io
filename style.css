@@ -20,8 +20,13 @@ h2 {
 }
 
 .container h1 {
-    color: #4baa93;
+    color: #4baa93; 
    
+}
+
+.btn {
+    background: #4baa93;
+    color: white;
 }
 
 .container {
