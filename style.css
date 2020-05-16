@@ -64,6 +64,7 @@ h2 {
 #portfolio-content{
     height: 500px;
     overflow: auto;
+    padding-bottom: 80px;
 }
 
 #form-content {
@@ -75,7 +76,13 @@ h2 {
    resize: none;
 }
 
+#contact-container {
+    overflow: auto;
+}
 
+#portfolio-main {
+    overflow: auto;
+}
 
 
 

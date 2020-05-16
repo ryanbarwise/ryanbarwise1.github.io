@@ -19,6 +19,14 @@ $(document).ready(function () {
 
 });
 
+    $('#gitHub').on('click', function(){
+        window.location.replace('https://github.com/ryanbarwise','_blank');
+    })
+
+    $('#emailAddress').on('click', function(){
+        window.location.replace("mailto:ryanbarwise@gmail.com","_blank");
+    })
+
 });
             
             
