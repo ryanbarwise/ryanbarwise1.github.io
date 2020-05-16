@@ -15,7 +15,7 @@ $(document).ready(function () {
 });
 
     $('#resume').on('click',function(){
-        window.location.replace('/Users/ryanbarwise/Documents/Coding/UCF-NEW/ryanbarwise1.github.io/RyanBarwiseResumeCurrent.pdf', '_blank');
+        window.location.replace("RyanBarwiseResumeCurrent.pdf", '_blank');
 
 });
 
