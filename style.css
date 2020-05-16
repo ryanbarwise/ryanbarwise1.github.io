@@ -61,9 +61,21 @@ h2 {
 
 }
 
-#form-content{
+#portfolio-content{
     height: 500px;
+    overflow: auto;
 }
+
+#form-content {
+    height: 500px;
+    overflow: auto;
+    padding-bottom: 10px;
+}
+#message {
+   resize: none;
+}
+
+
 
 
 
