@@ -9,22 +9,22 @@ $(document).ready(function () {
 
 
     $('#linkedIn').on('click',function(){
-    window.location.replace('https://www.linkedin.com/in/ryan-barwise-666923191/','_blank');
+    window.location.assign('https://www.linkedin.com/in/ryan-barwise-666923191/');
         
     
 });
 
     $('#resume').on('click',function(){
-        window.location.replace("RyanBarwiseResumeCurrent.pdf", '_blank');
+        window.location.assign("RyanBarwiseResumeCurrent.pdf");
 
 });
 
     $('#gitHub').on('click', function(){
-        window.location.replace('https://github.com/ryanbarwise','_blank');
+        window.location.assign('https://github.com/ryanbarwise');
     })
 
     $('#emailAddress').on('click', function(){
-        window.location.replace("mailto:ryanbarwise@gmail.com","_blank");
+        window.location.assign("mailto:ryanbarwise@gmail.com");
     })
 
 });
